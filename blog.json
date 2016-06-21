@@ -1,5 +1,5 @@
 {
-  "id": "myblog",
+  "id": "jekyll",
   "container": {
     "type": "DOCKER",
     "docker": {
